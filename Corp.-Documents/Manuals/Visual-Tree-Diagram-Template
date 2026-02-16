@@ -1,0 +1,32 @@
+Visual Tree Diagram Template
+
+Corporate Documents
+└─ 00_CORP_Corporate
+    ├─ Board_Minutes
+    ├─ Policies
+    ├─ Manuals
+    └─ Annual_Reports
+
+Departments
+├─ 01_IT
+│   ├─ SOPs
+│   │   ├─ Draft
+│   │   ├─ Approved
+│   │   └─ Archive
+│   ├─ Work_Instructions
+│   ├─ Projects
+│   ├─ Security_Policies
+│   └─ Forms
+├─ 02_HR
+├─ 03_Finance
+├─ 04_Operations
+├─ 05_Sales_Marketing
+├─ 06_Risk_Compliance
+├─ 07_Quality_Assurance
+└─ 08_Specialists
+
+Archive (Enterprise Level)
+└─ Archive
+    ├─ 2023
+    ├─ 2024
+    └─ 2025
